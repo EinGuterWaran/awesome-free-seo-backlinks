@@ -190,6 +190,7 @@ A curated list of high-quality, free SEO backlink sources to boost domain author
 | Fiddy | 25 |  | [Submit](https://httboqu3t5a.typeform.com/to/nmt9wTHk?typeform-source=fiddy.co) |
 | Promptzone | 25 | AI | [Submit](https://www.promptzone.com/) |
 | Startup Stage | 25 |  | [Submit](https://startupstage.app/startups/new) |
+| AIMiracle MAG | 25 | AI | [Submit](https://aimiracle.ai) |
 | Link Directory Listings | 25 |  | [Submit](https://linkdirectorylistings.org/submit-site/) |
 | Startup88 | 24 |  | [Submit](https://startup88.typeform.com/to/CRjWqM?typeform-source=startup88.com) |
 | Bestwebsite | 24 |  | [Submit](https://bestwebsites.info/en/submit) |
