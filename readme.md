@@ -4,6 +4,16 @@ A curated list of high-quality, free SEO backlink sources to boost domain author
 
 ---
 
+## 🛠 Submission workflow tools
+
+Optional tools that help teams research backlink opportunities, prepare outreach copy, and track submissions while using the directories below.
+
+| Name | Category | Link |
+|------|----------|------|
+| TopRank | SEO workflow automation | [Source](https://github.com/nowork-studio/toprank) |
+
+---
+
 ## 🔥 DR 90+
 
 | Name | DR | Category | Link |
