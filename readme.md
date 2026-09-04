@@ -121,7 +121,7 @@ A curated list of high-quality, free SEO backlink sources to boost domain author
 | TechPluto | 47 |  | [Submit](https://www.techpluto.com/submit-startup/) |
 | ProLinkDirectory | 46 |  | [Submit](https://www.prolinkdirectory.com/submit.php) |
 | Curated | 46 |  | [Submit](https://www.curated.design/) |
-| SaaSCity | 46 | SaaS | [Submit](https://saascity.io/submit) |
+| SaaSCity | 59 | SaaS | [Submit](https://saascity.io/submit) |
 | Insidr AI | 46 | AI | [Submit](https://www.insidr.ai/submit-tools/) |
 | Tiny Startups | 45 |  | [Submit](https://tally.so/r/wMzP8X) |
 | Ben’s Bites | 45 |  | [Submit](https://news.bensbites.com/submit) |
