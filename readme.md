@@ -96,6 +96,7 @@ Backlinks remain one of the strongest ranking signals in Google's algorithm. Sub
 | Callupcontact | 76 | General, Software | ✅ dofollow | [Submit](https://www.callupcontact.com/active/register/register.php?) |
 | EU Startups | 76 | General, Software |  | [Submit](https://www.eu-startups.com/directory/?wpbdp_view=submit_listing) |
 | EnrollBusiness | 76 | Biz info, General, New, US only | ➖ nofollow | [Submit](https://us.enrollbusiness.com/CreateBusinessProfile) |
+| Nick Launches | 75 | Software, Startup | ✅ dofollow | [Submit](https://nicklaunches.com/submit) |
 | AskMap | 74 | General, New | ➖ nofollow | [Submit](http://www.askmap.net/login.asp?nexturl=%2Fadd%2Easp) |
 | Cybo | 74 | General, Software | ✅ dofollow | [Submit](https://www.cybo.com/add-business/) |
 | Exact Seek | 74 | General, Software | ➖ nofollow | [Submit](https://www.exactseek.com/add.html) |
