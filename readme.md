@@ -121,6 +121,7 @@ Backlinks remain one of the strongest ranking signals in Google's algorithm. Sub
 | Entireweb | 70 | General, New |  | [Submit](https://www.entireweb.com/free_submission/webpage/) |
 | Sitelike | 70 | General, Software | ➖ nofollow | [Submit](https://www.sitelike.org/add-site/) |
 | Tuugo | 70 | Biz info, General, New |  | [Submit](https://www.tuugo.us/pricing-plan/) |
+| Dayront | 80 | AI, SaaS, Utility | ✅ dofollow | [Submit](https://dayront.com) |
 
 ---
 
