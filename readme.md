@@ -211,6 +211,7 @@ Backlinks remain one of the strongest ranking signals in Google's algorithm. Sub
 | Cipinet | 37 | General, New |  | [Submit](https://www.cipinet.com/suggest.php?action=addlink) |
 | Project Hunt | 37 | Software | ✅ dofollow | [Submit](https://projecthunt.me/) |
 | ctrl alt | 37 | Software | ✅ dofollow | [Submit](https://ctrlalt.cc/) |
+| DebutPin | 37 | Software, Startup | ✅ dofollow | [Submit](https://debutpin.com/submit) |
 | 9sites | 36 | General, Software | ✅ dofollow | [Submit](https://9sites.net/addurl.php) |
 | H1ad | 36 | General |  | [Submit](https://articlesprocess.h1ad.com/submit-an-article-process.php) |
 | AI Findy | 35 | AI | ✅ dofollow | [Submit](https://aifindy.com/contacto/publica-tu-ia-en-aifindy/) |
