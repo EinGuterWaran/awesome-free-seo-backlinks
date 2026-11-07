@@ -300,6 +300,7 @@ Backlinks remain one of the strongest ranking signals in Google's algorithm. Sub
 | ProfitHunt | 8 | Need to mention revenue | ✅ dofollow | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdcuIN_dg9Xes5f9kCXb-C_Th3DYJGKWafaBgXgZY7tcJxXMw/viewform) |
 | AIGeneration | 4.9 | AI | ✅ dofollow | [Submit](https://www.theaigeneration.com/add/) |
 | AI Tools Up | 4.6 | AI | ✅ dofollow | [Submit](https://tally.so/r/nPpyBV) |
+| We push your site to the World | new (Nov 2026) | General | ✅ dofollow | [Submit](https://wepushyoursitetotheworld.aplusz.app/en/) |
 
 ---
 
