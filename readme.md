@@ -191,6 +191,7 @@ Backlinks remain one of the strongest ranking signals in Google's algorithm. Sub
 | Tiny Startups | 45 | AI, Launch Platform, Software | ✅ dofollow | [Submit](https://tally.so/r/wMzP8X) |
 | B2BMAP | 43 | General, New |  | [Submit](https://b2bmap.com/business-listing) |
 | Marsx | 43 | AI | ✅ dofollow | [Submit](https://marsx.dev/ai-startups/) |
+| Awesome Indie | 41 | Launch Platform, Software | ✅ dofollow | [Submit](https://awesomeindie.com/submit) |
 | blogs.findermaster.com | 41 | General |  | [Submit](https://blogs.findermaster.com) |
 | Finder Master Blogs | 40 | General |  | [Submit](https://articlesexplore.findermaster.com/post-an-article-steps.php) |
 
